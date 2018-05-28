@@ -9,4 +9,5 @@ declare var $: any;
 })
 export class AppComponent {
   title = 'My First Angular App!';
+  other = 'this is other variable';
 }
